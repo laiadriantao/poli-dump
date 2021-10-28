@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#homework: it's up to you to create a complex hierarchy of folders 
+#with many directories and files. Copy 50% of files from one folder 
+#to another and the other 50% move it from one folder to another
+
 #creating directories
 
 cd ~
